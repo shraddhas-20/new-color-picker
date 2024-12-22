@@ -1,4 +1,4 @@
-/*body{
+body{
   background-image: url(assets/pixelcut-export.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -18,9 +18,9 @@
 .clock-container{
   padding: 10px;
   width: 100vw;
-}*/
+}
 
-body{
+/*body{
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: black;
   color: white;
@@ -64,7 +64,7 @@ input[type="color"]{
   height: 50px;
   padding: 5px;
   border-radius: 10px;
-border: 3px solid purple;}
+border: 3px solid purple;}*/
 
 
 /*body{

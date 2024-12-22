@@ -20,7 +20,7 @@
   width: 100vw;
 }*/
 
-/*body{
+body{
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: black;
   color: white;
@@ -64,10 +64,10 @@ input[type="color"]{
   height: 50px;
   padding: 5px;
   border-radius: 10px;
-border: 3px solid purple;}*/
+border: 3px solid purple;}
 
 
-body{
+/*body{
   background-color: black;
 }
 .to-do-list{
@@ -110,4 +110,5 @@ button{
 }
 .delete-button:hover{
   background-color: red;
-}
+} */
+

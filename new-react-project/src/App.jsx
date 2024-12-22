@@ -1,12 +1,12 @@
-import Counter from './Counter.jsx'
-import MyComponent from './MyComponent.jsx';
 import ColorPicker from './ColorPicker.jsx';
+import DigitalClock from './DigitalClock.jsx';
+import ToDoList from './ToDoList.jsx';
 
 function App() {
 
-  return (
+    return (
     <>
-<ColorPicker/>
+<ToDoList/>
 </>
    
   );
